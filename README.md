@@ -22,9 +22,5 @@
 
 ---
 
-## [Website Link](https://rocky-eyrie-99788.herokuapp.com/)
-
-  
-  # Project [Link](http://sadhu.mywebcommunity.org/)
-  
-  ![image](https://user-images.githubusercontent.com/76911582/138220565-696c0125-2891-4e6f-a787-02d3eae9e325.png)
+# Project [Link](http://sadhu.mywebcommunity.org/)
+![image](https://user-images.githubusercontent.com/76911582/138220565-696c0125-2891-4e6f-a787-02d3eae9e325.png)
