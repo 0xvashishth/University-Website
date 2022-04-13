@@ -1,28 +1,29 @@
-## ONLINE EDUCATION SYSTEM
+# University Management System
 
-<p align="center">
-    <a href="https://github.com/vasu-1/University-Website">
-      <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/vasu-1/University-Website/total?label=Downloads&logo=github">
-    </a>
-    <a href="https://github.com/vasu-1/University-Website/issues">
-      <img alt="GitHub issues" src="https://img.shields.io/github/issues/vasu-1/University-Website?logo=github">
-    </a>
-    <a href="https://github.com/vasu-1/University-Website/commits">
-      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vasu-1/University-Website?logo=github">
-    </a>
-    <a href="https://github.com/vasu-1/University-Website/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/vasu-1/University-Website?logo=github">
-    </a>
-   </p>
+### A complete university management system
+
+<a href="https://github.com/vasu-1/University-Website"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/vasu-1/University-Website/total?label=Downloads&logo=github"></a>
+<a href="https://github.com/vasu-1/University-Website/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/vasu-1/University-Website?logo=github"></a>
+<a href="https://github.com/vasu-1/University-Website/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vasu-1/University-Website?logo=github"></a>
+<a href="https://github.com/vasu-1/University-Website/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/vasu-1/University-Website?logo=github"></a>
+<a href="https://github.com/vasu-1/University-Website"><img src="https://sloc.xyz/github/vasu-1/University-Website/" alt="total lines"/></a>
+<a href="https://github.com/vasu-1/University-Website"><img src="https://img.shields.io/github/stars/vasu-1/University-Website" alt="Stars"/></a>
+<a href="https://github.com/vasu-1/University-Website/network/members"><img src="https://img.shields.io/github/forks/vasu-1/University-Website" alt="Forks"/></a>
 
 ---
 
-## ICTW-II(b) Project Submission
+# Tech Stack
 
-Submitted By :                                                                                                                                                          
-  Vashishth Patel                                                                                                                                        
-  Drumil Akhenia                                                                                                                                        
-  Priyanshi Bhadresa
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+---
+
+## [Website Link](https://rocky-eyrie-99788.herokuapp.com/)
+
   
   # Project [Link](http://sadhu.mywebcommunity.org/)
   
